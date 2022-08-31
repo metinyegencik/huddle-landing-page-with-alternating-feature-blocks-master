@@ -5,3 +5,5 @@
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
+
+Yaptığım projenin live'ını buradan görebilirsiniz: https://metinyegencik.github.io/huddle-landing-page-with-alternating-feature-blocks-master/
